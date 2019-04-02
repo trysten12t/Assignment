@@ -1,0 +1,71 @@
+commit 223d87a6ee081f11fc55ab8243ea6b04f1d89d32
+Author: trysten12t <trystenafrin10@gmail.com>
+Date:   Thu Feb 28 14:25:50 2019 +0000
+
+    changed eye size
+
+commit 468e99c2b1d03cbf88ee1f260a8c76068adaff5e
+Author: trysten12t <trystenafrin10@gmail.com>
+Date:   Thu Feb 28 14:13:49 2019 +0000
+
+    word meow changed to orange
+
+commit fecd25ee2af5ff89a0ef33fe7606e386f60ed7bc
+Author: AbazBajrami <abaz.bajrami20@gmail.com>
+Date:   Thu Feb 28 14:11:46 2019 +0000
+
+    Eyes from pink to blue
+
+commit 93de0d77b221c72a28b20f748567e3a74f845e76
+Author: trysten12t <trystenafrin10@gmail.com>
+Date:   Thu Feb 28 14:08:51 2019 +0000
+
+    blue head to pink
+
+commit dd7ab4741cae5f2d4badfdf6b84edb6d031c7a78
+Author: AbazBajrami <abaz.bajrami20@gmail.com>
+Date:   Thu Feb 28 14:05:33 2019 +0000
+
+    Mouth from pink to red
+
+commit 21012dd722a6d5d07531e46b10f39007382db0f9
+Author: trysten12t <trystenafrin10@gmail.com>
+Date:   Thu Feb 28 14:02:25 2019 +0000
+
+    black head to blue
+
+commit a1cff0fb2a717a25ee04cbd6e6e77b7b64a1cc48
+Author: AbazBajrami <abaz.bajrami20@gmail.com>
+Date:   Thu Feb 28 13:59:12 2019 +0000
+
+    Green eyes to Yellow
+
+commit 31f9d77065ad6b05e5f64236868aa5dd3677c473
+Author: trysten12t <trystenafrin10@gmail.com>
+Date:   Thu Feb 28 13:45:16 2019 +0000
+
+    First Commit
+
+commit 54bea56b6953c71cbb6a252628d4f2a4baf9b137
+Author: trysten12t <46967795+trysten12t@users.noreply.github.com>
+Date:   Fri Feb 15 14:35:24 2019 +0000
+
+    Update .gitignore
+
+commit 2e483d7902d854d0a37ffc243eb86bab7eac1778
+Author: trysten12t <46967795+trysten12t@users.noreply.github.com>
+Date:   Fri Feb 15 14:18:13 2019 +0000
+
+    Update README.md
+
+commit cf2d2953e4c84972eec560b8e665d5b1bb852c91
+Author: trysten12t <46967795+trysten12t@users.noreply.github.com>
+Date:   Fri Feb 15 13:43:17 2019 +0000
+
+    Update README.md
+
+commit 8fb628cbd0b13e996de8025332b2506ca127aff2
+Author: trysten12t <46967795+trysten12t@users.noreply.github.com>
+Date:   Fri Feb 15 13:41:22 2019 +0000
+
+    Initial commit
